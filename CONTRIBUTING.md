@@ -14,3 +14,4 @@ We are excited to have you contribute to our project. Whether you’re filing is
 ## Additional Notes
 - If you are fixing an issue, please mention the issue number in your pull request description.
 - New features should be discussed in advance to ensure alignment with project goals.
+- For feature requests, please use the issues section of the repository to discuss ideas before starting implementation.
