@@ -10,3 +10,7 @@ We are excited to have you contribute to our project. Whether you’re filing is
 5. **Commit Changes:** Use meaningful commit messages to describe your changes. For example, `git commit -m "Add new feature"`.
 6. **Push Changes:** Push your changes back to your fork using `git push origin my-feature-branch`.
 7. **Create a Pull Request:** Go to the original repository, click on the "Pull Requests" tab, then click on the "New Pull Request" button.
+
+## Additional Notes
+- If you are fixing an issue, please mention the issue number in your pull request description.
+- New features should be discussed in advance to ensure alignment with project goals.
