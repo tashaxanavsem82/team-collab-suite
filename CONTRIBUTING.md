@@ -5,7 +5,7 @@ We are excited to have you contribute to our project. Whether you’re filing is
 ## How to Contribute
 1. **Fork the Repository:** Click on the fork button on the top right of the page to create a personal copy of the repository.
 2. **Clone Your Fork:** Use `git clone <your-fork-url>` to clone your copy to your local machine.
-3. **Create a Branch:** Create a new feature branch with `git checkout -b my-feature-branch`. Use a descriptive branch name that reflects the purpose of your changes, e.g., `feature/login-page` or `bugfix/header-typo`.
+3. **Create a Branch:** Create a new feature branch with `git checkout -b my-feature-branch`. Use a descriptive branch name that reflects the purpose of your changes, e.g., `feature/login-page` or `bugfix/header-typo`. Avoid generic names like `update` or `new-feature`.
 4. **Make Changes:** Implement your changes, and be sure to follow the project's coding style and guidelines.
 5. **Commit Changes:** Use meaningful commit messages to describe your changes, following the format: `git commit -m "<type>: <description>"`. For example, `git commit -m "feat: add new feature"`.
 6. **Push Changes:** Push your changes back to your fork using `git push origin my-feature-branch`.
