@@ -9,4 +9,4 @@ We are excited to have you contribute to our project. Whether you're filing issu
 4. **Make Changes:** Implement your changes, and make sure to follow the project's coding style and guidelines.
 5. **Commit Changes:** Use meaningful commit messages to describe your changes. E.g., `git commit -am 'Add new feature'`.
 6. **Push Changes:** Push your changes back to your fork using `git push origin my-feature-branch`.
-7. **Create a Pull Request:** Go to the original repository and click on the ```
+7. **Create a Pull Request:** Go to the original repository and click on the "Pull Requests" tab, then click on the "New Pull Request" button.
